@@ -1,0 +1,15 @@
+.products{
+    font-size: 18px;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
+.name{
+    color: rgb(3, 179, 0);
+}
+.price{
+    color: rgb(0, 102, 255);
+}
